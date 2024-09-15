@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef540801-9343-4e93-b37d-ab1e792edccf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula34/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula34/Contador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula34/Exer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula34/Exer02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula34/Exer03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula35/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula35/Calculadora2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula35/Exer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula35/Exer02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula35/TesteCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula36/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula36/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula36/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula36/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula36/Exer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula36/Exer02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula36/Professor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2m4BaanyimPbF31FVw45T6qcCbo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Exer01.executor": "Run",
+    "Application.Exer02.executor": "Run",
+    "Application.Exer03.executor": "Run",
+    "Application.Main.executor": "Debug",
+    "Application.TesteCalculadora.executor": "Run",
+    "Application.com.daniele.exer.aula35.Exer01.executor": "Run",
+    "Application.com.daniele.exer.aula35.Exer02.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/home/daniele/Projetos/java/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Exer02">
+    <configuration name="Exer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daniele.exer.aula36.Exer01" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daniele.exer.aula36.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exer02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daniele.exer.aula36.Exer02" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daniele.exer.aula36.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteCalculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daniele.exer.aula35.TesteCalculadora" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daniele.exer.aula35.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.daniele.exer.aula35.Exer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daniele.exer.aula35.Exer01" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daniele.exer.aula35.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.daniele.exer.aula35.Exer02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daniele.exer.aula35.Exer02" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daniele.exer.aula35.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exer02" />
+        <item itemvalue="Application.Exer01" />
+        <item itemvalue="Application.com.daniele.exer.aula35.Exer02" />
+        <item itemvalue="Application.com.daniele.exer.aula35.Exer01" />
+        <item itemvalue="Application.TesteCalculadora" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef540801-9343-4e93-b37d-ab1e792edccf" name="Changes" comment="" />
+      <created>1726326053457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726326053457</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
