@@ -15,8 +15,6 @@ public class Fila<T> extends EstruturaEstatica<T> {
     public void enfileirar(T elemento){
         this.elementos[this.tamanho] = elemento;
         this.tamanho++;
-
-        this.elementos[this.tamanho++] = elemento;
     }
 
     public T espiar(){
@@ -25,6 +23,20 @@ public class Fila<T> extends EstruturaEstatica<T> {
             return null;
         }
         return this.elementos[0];
+    }
+
+    public T desenfileirar(){
+        final int POS = 0;
+
+        if(this.estaVazia()){
+            return null;
+        }
+
+        T elementoASerRemovido = this.elementos[POS];
+
+        this.remove(POS);
+
+        return elementoASerRemovido;
     }
 
 }

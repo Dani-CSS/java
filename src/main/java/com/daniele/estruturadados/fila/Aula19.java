@@ -1,6 +1,6 @@
 package com.daniele.estruturadados.fila;
 
-public class Exer19 {
+public class Aula19 {
 
     public static void main(String[] args) {
 

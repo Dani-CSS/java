@@ -11,8 +11,16 @@ public class EstruturaEstatica<T> {
         this.tamanho = 0;
     }
 
+    protected void remove(int posicao){
+        if (!(posicao >= 0 && posicao < tamanho)){
+            throw new IllegalArgumentException(("Posição Inválida"));
+        }
+        for(int i=posicao; i<tamanho-1; i++){
+            elementos[i] = elementos[i+1];
+        }
+        tamanho--;
 
-
+    }
     protected void aumentaCapacidade(){
         if(this.tamanho == this.elementos.length){
             T[] elementosNovos = (T[]) new Object[this.elementos.length*2];
