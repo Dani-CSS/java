@@ -5,23 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef540801-9343-4e93-b37d-ab1e792edccf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula43/exer3/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula43/exer3/Mamifero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula43/exer3/Peixe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula43/exer3/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula46/Cilindro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula46/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula46/Cubo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula46/DimensaoSuperficial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula46/DimensaoVolumetrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula46/Figura2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula46/Figura3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula46/FiguraGeometrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula46/Piramide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula46/Quadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula46/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula46/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/base/EstruturaEstatica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/fila/Exer19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/fila/Exer20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/fila/Exer21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/fila/Fila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/stack/Aula13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/stack/Aula14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/stack/Aula16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/stack/Aula17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/stack/Aula18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/stack/Exer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/stack/Exer02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/stack/Exer03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/stack/Exer04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/stack/Exer05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/stack/Exer06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/stack/Exer07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/stack/Exer08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/stack/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/stack/Pilha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/vetor/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/vetor/Lista2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/vetor/Vetor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/vetor/VetorObjetos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/vetor/teste/Aula02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/vetor/teste/Aula03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/vetor/teste/Aula04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/vetor/teste/Aula05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/vetor/teste/Aula06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/vetor/teste/Aula07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/vetor/teste/Aula08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/vetor/teste/Aula09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/vetor/teste/Aula10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/vetor/teste/Aula11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/vetor/teste/Aula12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/vetor/teste/Exer06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/vetor/teste/Exer07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula56/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula74/CorSemaforo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula74/SimuladorSemaforo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula74/ThreadSemaforo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula85_100/Aula91DateFormat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula36/Contato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daniele/exer/aula36/Contato.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +58,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -52,16 +80,37 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Aula02.executor": "Debug",
+    "Application.Aula03.executor": "Run",
+    "Application.Aula04.executor": "Run",
+    "Application.Aula05.executor": "Run",
+    "Application.Aula06.executor": "Run",
+    "Application.Aula07.executor": "Debug",
+    "Application.Aula08.executor": "Debug",
+    "Application.Aula09.executor": "Debug",
+    "Application.Aula10.executor": "Run",
+    "Application.Aula12.executor": "Run",
+    "Application.Aula13.executor": "Run",
+    "Application.Aula14.executor": "Run",
+    "Application.Aula17.executor": "Run",
+    "Application.Aula91DateFormat.executor": "Debug",
+    "Application.Calculadora.executor": "Run",
     "Application.Exer01.executor": "Run",
     "Application.Exer02.executor": "Run",
     "Application.Exer03.executor": "Run",
+    "Application.Exer06.executor": "Run",
+    "Application.Exer07.executor": "Run",
+    "Application.Exer19.executor": "Run",
+    "Application.Exer21.executor": "Run",
     "Application.Main.executor": "Debug",
+    "Application.SimuladorSemaforo.executor": "Run",
     "Application.Teste.executor": "Run",
     "Application.TesteCalculadora.executor": "Run",
     "Application.com.daniele.exer.aula35.Exer01.executor": "Run",
     "Application.com.daniele.exer.aula35.Exer02.executor": "Run",
     "Application.com.daniele.exer.aula43.exer2.Teste.executor": "Run",
     "Application.com.daniele.exer.aula43.exer3.Teste.executor": "Run",
+    "Application.com.daniele.exer.aula46.Teste.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
@@ -71,13 +120,13 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.com.daniele.exer.aula46.Teste">
-    <configuration name="Exer02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daniele.exer.aula36.Exer02" />
+  <component name="RunManager" selected="Application.Exer03">
+    <configuration name="Aula13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daniele.estruturadados.stack.Aula13" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daniele.exer.aula36.*" />
+          <option name="PATTERN" value="com.daniele.estruturadados.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daniele.exer.aula43.exer1.Teste" />
+    <configuration name="Aula14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daniele.estruturadados.stack.Aula14" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daniele.exer.aula43.exer1.*" />
+          <option name="PATTERN" value="com.daniele.estruturadados.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.daniele.exer.aula43.exer2.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daniele.exer.aula43.exer2.Teste" />
+    <configuration name="Aula17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daniele.estruturadados.stack.Aula17" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daniele.exer.aula43.exer2.*" />
+          <option name="PATTERN" value="com.daniele.estruturadados.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.daniele.exer.aula43.exer3.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daniele.exer.aula43.exer3.Teste" />
+    <configuration name="Exer03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daniele.estruturadados.stack.Exer03" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daniele.exer.aula43.exer3.*" />
+          <option name="PATTERN" value="com.daniele.estruturadados.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.daniele.exer.aula46.Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daniele.exer.aula46.Teste" />
+    <configuration name="Exer21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daniele.estruturadados.fila.Exer21" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daniele.exer.aula46.*" />
+          <option name="PATTERN" value="com.daniele.estruturadados.fila.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.daniele.exer.aula46.Teste" />
-        <item itemvalue="Application.com.daniele.exer.aula43.exer3.Teste" />
-        <item itemvalue="Application.com.daniele.exer.aula43.exer2.Teste" />
-        <item itemvalue="Application.Teste" />
-        <item itemvalue="Application.Exer02" />
+        <item itemvalue="Application.Exer03" />
+        <item itemvalue="Application.Aula17" />
+        <item itemvalue="Application.Aula14" />
+        <item itemvalue="Application.Aula13" />
+        <item itemvalue="Application.Exer21" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +207,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -166,7 +226,27 @@
           <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/vetor/teste/Aula07.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/vetor/teste/Aula08.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/daniele/estruturadados/vetor/teste/Aula09.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java$Exer06.ic" NAME="Exer06 Coverage Results" MODIFIED="1728244161537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.daniele.estruturadados.vetor.teste.*</FILTER>
+    </SUITE>
   </component>
 </project>
